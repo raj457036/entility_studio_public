@@ -9,7 +9,7 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="2.0" sparkle:os="macos" />
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.14" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
