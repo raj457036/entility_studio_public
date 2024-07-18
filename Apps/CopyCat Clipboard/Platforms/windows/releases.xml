@@ -3,13 +3,13 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 0.1.18</title>
+            <title>Version 0.1.17</title>
             <description>Performance and stability improvements</description>
             <pubDate>Fri, 18 July 2024 00:00:00 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.18" sparkle:os="windows" />
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.17" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
