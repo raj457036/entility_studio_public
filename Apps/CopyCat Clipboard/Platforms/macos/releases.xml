@@ -5,8 +5,9 @@
         <item>
             <title>Version 0.1.17</title>
             <description>
-                1. Performance and Stability Improvements
-                2. Launch speed improvements
+                1. Optimised syncing
+                2. Improved memory management
+                3. Bug fixes and enhancements
             </description>
             <pubDate>Thu, 17 Jul 2024 12:00:00 +0000</pubDate>
             <sparkle:tags>
