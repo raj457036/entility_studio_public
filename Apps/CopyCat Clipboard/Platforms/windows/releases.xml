@@ -10,9 +10,9 @@
             3. Bug fixes and enhancements
             </description>
             <pubDate>Sat, 20 Jul 2024 07:00:00 +0000</pubDate>
-            <sparkle:tags>
+            <!-- <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags>
+            </sparkle:tags> -->
             <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.18" sparkle:os="windows" />
         </item>
     </channel>
