@@ -5,5 +5,5 @@ A repository of resouces for the apps by entility studio such as copycat clipboa
 
 # App Support
 
-### 1. CopyCat Clipboard: One Clipboard, Limitless Productivity
+### 1. [CopyCat Clipboard: One Clipboard, Limitless Productivity](https://www.entilitystudio.com/copycat-clipboard)
 
