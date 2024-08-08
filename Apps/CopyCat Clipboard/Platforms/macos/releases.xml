@@ -3,17 +3,22 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 0.1.17</title>
+            <title>Version 0.1.21</title>
             <description>
-                1. Optimised syncing
-                2. Improved memory management
-                3. Bug fixes and enhancements
+                Critical Changes:
+                1. Full Local Clipboard: All core features (except Syncing) are now available without requiring sign-in.
+                2. Local End-to-End Encryption: Enhanced security for all users when using syncing.
+                3. Extensive Keyboard Shortcuts: Faster navigation with new keyboard shortcuts.
+
+                General Changes:
+                1. Bug fixes and localization improvements.
+                2. UI tweaks for a better user experience.
             </description>
-            <pubDate>Thu, 17 Jul 2024 12:00:00 +0000</pubDate>
+            <pubDate>Thu, 07 Aug 2024 07:30:00 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.17" sparkle:os="macos" />
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.21" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
