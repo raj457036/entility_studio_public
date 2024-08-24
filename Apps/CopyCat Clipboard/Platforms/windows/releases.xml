@@ -3,22 +3,22 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 0.1.21</title>
+            <title>Version 0.1.22</title>
            <description>
-                Critical Changes:
-                1. Full Local Clipboard: All core features (except Syncing) are now available without requiring sign-in.
-                2. Local End-to-End Encryption: Enhanced security for all users when using syncing.
-                3. Extensive Keyboard Shortcuts: Faster navigation with new keyboard shortcuts.
+                1. 🎉 Drag and Drop ( Desktop and Ipad Os, Android will be coming in upcoming updates )
+                2. 🎉 Customization and Themings
+                3. 🎉 Advance filters by type, sub types, date range, sorting, etc. ( Feature request )
+                4. 🎉 New and polished user interface. ( Feature request )
+                5. 💪 Performance improvements when large amount of clips are synced and decrypted.
+                6. and many many more...
 
-                General Changes:
-                1. Bug fixes and localization improvements.
-                2. UI tweaks for a better user experience.
+                and as usual bug fixes and improvements
             </description>
-            <pubDate>Thu, 08 Aug 2024 05:47:00 +0000</pubDate>
-            <sparkle:tags>
+            <pubDate>Thu, 25 Aug 2024 20:30:00 +0000</pubDate>
+            <!-- <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.21" sparkle:os="windows" />
+            </sparkle:tags> -->
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.22" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
