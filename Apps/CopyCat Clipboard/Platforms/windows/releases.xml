@@ -3,22 +3,22 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 0.1.22</title>
+            <title>Version 0.1.23</title>
            <description>
-                1. 🎉 Drag and Drop ( Desktop and Ipad Os, Android will be coming in upcoming updates )
-                2. 🎉 Customization and Themings
-                3. 🎉 Advance filters by type, sub types, date range, sorting, etc. ( Feature request )
-                4. 🎉 New and polished user interface. ( Feature request )
-                5. 💪 Performance improvements when large amount of clips are synced and decrypted.
-                6. and many many more...
+                Critical Bug And Stability Issue Fixes
+                1. Encoding error for some lanuguages
+                2. Encryption automatically closes in Free plan
+                3. Incorrect error messages in snackbar.
+                4. App stabilty issue on some os versions.
+                5. Performance and Memory utilization improvements
 
-                and as usual bug fixes and improvements
+                This is a critical patch release. please consider upgrading.
             </description>
-            <pubDate>Thu, 25 Aug 2024 20:30:00 +0000</pubDate>
-            <!-- <sparkle:tags>
+            <pubDate>Wed, 4 Sep 2024 20:30:00 +0000</pubDate>
+            <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags> -->
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.22" sparkle:os="windows" />
+            </sparkle:tags>
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.23" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
