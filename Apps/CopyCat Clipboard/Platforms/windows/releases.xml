@@ -3,9 +3,10 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 0.1.24 (PATCH 0.1.26)</title>
+            <title>Version 0.1.24 (PATCH 0.1.27)</title>
            <description>
-                Patch: Exclusion rules preventing copying operation in some apps.
+                Patch 1: Exclusion rules preventing copying operation in some apps.
+                Patch 2: Keyboard pressing alt-D in broswer apps 
                
                 🥳 New Features 🥳
                 1. Unified Search and Home
@@ -16,11 +17,11 @@
 
                 This update will make your experience better.
             </description>
-            <pubDate>Fri, 29 Oct 2024 05:05:00 +0000</pubDate>
-            <!-- <sparkle:tags>
+            <pubDate>Fri, 30 Oct 2024 05:05:00 +0000</pubDate>
+            <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags> -->
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.26" sparkle:os="windows" />
+            </sparkle:tags>
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.27" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
