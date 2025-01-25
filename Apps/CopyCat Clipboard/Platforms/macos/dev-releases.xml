@@ -4,7 +4,7 @@
         <title>CopyCat Clipboard</title>
         <item>
             <title>Version 1.0.1</title>
-           <description>
+           <!-- <description>
 Format testing 1
 Patch 1: Exclusion rules preventing copying operation in some apps.
 Patch 2: Keyboard pressing alt-D in broswer apps 
@@ -17,7 +17,7 @@ Patch 2: Keyboard pressing alt-D in broswer apps
 5. Bug fixes and enhancements
 
 This update will make your experience better.
-            </description>
+            </description> -->
             <pubDate>Sun, 26 Jan 2025 05:05:00 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
