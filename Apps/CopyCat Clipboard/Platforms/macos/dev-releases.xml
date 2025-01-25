@@ -5,17 +5,17 @@
         <item>
             <title>Version 1.0.1</title>
            <description>
-                Patch 1: Exclusion rules preventing copying operation in some apps.
-                Patch 2: Keyboard pressing alt-D in broswer apps 
+Patch 1: Exclusion rules preventing copying operation in some apps.
+Patch 2: Keyboard pressing alt-D in broswer apps 
                
-                🥳 New Features 🥳
-                1. Unified Search and Home
-                2. Exclusion rules for more privacy.
-                3. Dock Mode on any side of your screen.
-                4. Multi-Clip Operations
-                5. Bug fixes and enhancements
+🥳 New Features 🥳
+1. Unified Search and Home
+2. Exclusion rules for more privacy.
+3. Dock Mode on any side of your screen.
+4. Multi-Clip Operations
+5. Bug fixes and enhancements
 
-                This update will make your experience better.
+This update will make your experience better.
             </description>
             <pubDate>Sun, 26 Jan 2025 05:05:00 +0000</pubDate>
             <sparkle:tags>
