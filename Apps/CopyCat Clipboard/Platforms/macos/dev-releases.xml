@@ -22,7 +22,7 @@ This update will make your experience better.
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="1.0.1" sparkle:os="macos" />
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="1.0.2" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
