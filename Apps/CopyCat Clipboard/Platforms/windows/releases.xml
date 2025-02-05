@@ -3,25 +3,20 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 0.1.24 (PATCH 0.1.27)</title>
-           <description>
-                Patch 1: Exclusion rules preventing copying operation in some apps.
-                Patch 2: Keyboard pressing alt-D in broswer apps 
-               
-                🥳 New Features 🥳
-                1. Unified Search and Home
-                2. Exclusion rules for more privacy.
-                3. Dock Mode on any side of your screen.
-                4. Multi-Clip Operations
-                5. Bug fixes and enhancements
+            <title>Version 1.0.0</title>
+            <description>
+- Real-Time Clipboard Sync Across Devices
+- Enhanced Onboarding
+- Improved Sync Performance
+- Revamped User Interface
+- Duplicate Prevention
+- Enhanced Keyboard Shortcuts
+- Bug Fixes: Resolved various issues for a smoother experience.
 
-                This update will make your experience better.
+...and more updates and features are coming soon, including support for additional platforms!
             </description>
-            <pubDate>Fri, 30 Oct 2024 05:05:00 +0000</pubDate>
-            <sparkle:tags>
-                <sparkle:criticalUpdate/>
-            </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="0.1.27" sparkle:os="windows" />
+            <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download#h.h39296b0uoxa" sparkle:version="1.0.0" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
