@@ -19,9 +19,9 @@ Patch 2: Keyboard pressing alt-D in broswer apps
 This update will make your experience better.
             </description> -->
             <pubDate>Sun, 26 Jan 2025 05:05:00 +0000</pubDate>
-            <sparkle:tags>
+            <!-- <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags>
+            </sparkle:tags> -->
             <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="1.0.2" sparkle:os="macos" />
         </item>
     </channel>
