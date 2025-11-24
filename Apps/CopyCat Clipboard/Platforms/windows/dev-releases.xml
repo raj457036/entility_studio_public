@@ -3,25 +3,18 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 1.0.1</title>
-           <description>
-                Patch 1: Exclusion rules preventing copying operation in some apps.
-                Patch 2: Keyboard pressing alt-D in broswer apps 
-               
-                🥳 New Features 🥳
-                1. Unified Search and Home
-                2. Exclusion rules for more privacy.
-                3. Dock Mode on any side of your screen.
-                4. Multi-Clip Operations
-                5. Bug fixes and enhancements
-
-                This update will make your experience better.
+            <title>Version 1.2.2</title>
+            <description>
+- Imporoved Real-Time Clipboard Latency
+- Enhanced Restoration
+- Hold Shift during selection to select range of items at once, Ctrl/Cmd + A for selecting all visible on screen.
+- Improved download indicator for large files.
+- Automatically fixes inconsistent time issue across platform.
+- Change Root Directory: Now change copycat database root directory by setting COPYCAT_DB_ROOT under the os environment settings.
+- Bug Fixes: Resolved various issues for a smoother experience.
             </description>
-            <pubDate>Sun, 26 Jan 2025 05:05:00 +0000</pubDate>
-            <sparkle:tags>
-                <sparkle:criticalUpdate/>
-            </sparkle:tags>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download" sparkle:version="1.0.1" sparkle:os="windows" />
+            <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download#h.h39296b0uoxa" sparkle:version="1.2.2" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
