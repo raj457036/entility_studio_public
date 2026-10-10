@@ -3,18 +3,18 @@
     <channel>
         <title>CopyCat Clipboard</title>
         <item>
-            <title>Version 1.2.2</title>
+            <title>Version 2.0.20</title>
             <description>
-- Imporoved Real-Time Clipboard Latency
-- Enhanced Restoration
-- Hold Shift during selection to select range of items at once, Ctrl/Cmd + A for selecting all visible on screen.
-- Improved download indicator for large files.
-- Automatically fixes inconsistent time issue across platform.
-- Change Root Directory: Now change copycat database root directory by setting COPYCAT_DB_ROOT under the os environment settings.
-- Bug Fixes: Resolved various issues for a smoother experience.
+- CopyCat Clipboard V2 is here!
+
+- Refined new design and improved security with AES-GCM encryption and App Lock.
+- Ultra-fast, low-latency sync with a hybrid local network + cloud approach.
+- Bi-directional sync across all supported operating systems.
+- WebDAV storage, screen recorder protection, and Text Transformers.
+- Performance improvements, bug fixes, and stability enhancements.
             </description>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download#h.h39296b0uoxa" sparkle:version="1.2.2" sparkle:os="windows" />
+            <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://www.entilitystudio.com/copycat-clipboard/download#h.9qsmgp1ig9we" sparkle:version="2.0.20" sparkle:os="windows" />
         </item>
     </channel>
 </rss>
